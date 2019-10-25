@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>头部分类 on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/categories/%E5%A4%B4%E9%83%A8%E5%88%86%E7%B1%BB/</link>
+    <description>Recent content in 头部分类 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_cn</language>
+    <lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/%E5%A4%B4%E9%83%A8%E5%88%86%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theme preview</title>
+      <link>http://localhost:1313/post/even123/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/even123/</guid>
+      <description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6</description>
+    </item>
+    
+  </channel>
+</rss>
